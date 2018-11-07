@@ -11,3 +11,4 @@
 - [云开发文档](https://developers.weixin.qq.com/miniprogram/dev/wxcloud/basis/getting-started.html)
 
 # 自己的开发
+#我自己还是看看文档吧
